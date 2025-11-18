@@ -2,7 +2,7 @@
 
 ## Today
 
-Cloudy with a chance of sun.
+Cloudy with a chance of sun. Temp 15 degrees.
 
 ## Tomorrow
 
